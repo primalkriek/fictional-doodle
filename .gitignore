@@ -165,3 +165,4 @@ cython_debug/
 __pycache__/
 .ipynb_checkpoints/
 datascience_repo/
+.ignore
